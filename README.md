@@ -14,4 +14,4 @@
 
 ## Features
 
--   TODO
+-   TODOS las caracteristicas del repo son gratis
