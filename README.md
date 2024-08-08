@@ -9,7 +9,7 @@
 
 
 -   Free software: MIT License
--   Documentation: https://VRConservation.github.io/propo
+-   [Documentation](https://3point.xyz/propo)
     
 
 ## Features
