@@ -3,7 +3,7 @@
 import openpyxl
 import pandas as pd
 
-class budget(openpyxl):
+# class budget(openpyxl):
 
-    def __init__(self, file):
-        self.file = file
+#     def __init__(self, file):
+#         self.file = file
