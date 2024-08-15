@@ -1,7 +1,7 @@
 site_name: propo
 site_description: A python package to create proposal templates for wood and forest health projects
 site_author: VRConservation
-site_url: https://VRConservation.github.io/propo
+site_url: https://3point.xyz/propo
 repo_url: https://github.com/VRConservation/propo
 
 copyright: "Copyright &copy; 2024 - 2024 Vance Russell"
@@ -81,6 +81,10 @@ nav:
     - Report Issues: https://github.com/VRConservation/propo/issues
     - Examples:
         - examples/intro.ipynb
+        - examples/ipyleaflet.ipynb
+        - examples/openpyxl.ipynb
+
+
     - API Reference:
           - propo module: propo.md
           - common module: common.md
